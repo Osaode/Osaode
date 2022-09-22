@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Osaode
 - 👀 I’m interested in ... Programming, UI/UX design and graphic design
-- 🌱 I’m currently learning ... Full stack web development
+- 🌱 I’m currently learning ... Front end web development
 - 💞️ I’m looking to collaborate on ... UI/UX design projects, Website and web app development
 - 📫 How to reach me ... osaodeeghianruwa@gmail.com, @osaode_ on twitter
 
